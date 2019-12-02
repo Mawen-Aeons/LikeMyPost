@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LikeMyPost</string>
+    <string name="like">Like</string>
+    <string name="dislike">Dislike</string>
+    <string name="like_counter">0</string>
+    <string name="dislike_counter">0</string>
+</resources>
